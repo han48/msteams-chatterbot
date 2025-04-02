@@ -1,3 +1,13 @@
+Chatbot Công ty trên Microsoft Teams
+
+Chatbot Microsoft Teams! Được phát triển với mô hình chatbot riêng và vận hành trên server nội bộ, hoàn toàn yên tâm về tính bảo mật và an toàn thông tin.
+
+Chatbot không chỉ đảm bảo rằng dữ liệu của công ty không bị lộ lọt ra bên ngoài, mà còn cho phép công ty dễ dàng tinh chỉnh và tùy biến dữ liệu để phù hợp với nhu cầu và đặc thù riêng.
+
+Đây là công cụ hữu hiệu giúp giảm tải công việc trả lời các câu hỏi thường gặp cho các bộ phận như Nhân sự (HR), Quản trị (Admin), và Hỗ trợ Kỹ thuật (IT Helpdesk).
+
+https://github.com/user-attachments/assets/05c77aed-899a-42c1-9389-e2dc8ea51212
+
 # Overview of the Basic AI Chatbot template
 
 This app template is built on top of [Teams AI library](https://aka.ms/teams-ai-library).
